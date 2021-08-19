@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! I'm Flint.
 
-<!--
-**FlintSH/FlintSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name originates from Wizard101
 
-Here are some ideas to get you started:
+Well known for my development/server work across several games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minecraft, Rust, Garry's Mod, Ark, & more.
+
+### Experience
+
+Previous Owner of- MythicMine, RustyFlintstone, & countless others.
+
+Current Owner of- [Nebula Network](https://www.nebulamc.io/)
+
+### Contact
+
+**Discord:** Flint#0110 |
+**Spigot:** [FlintSpellhunter](https://www.spigotmc.org/members/flintspellhunter.38257/) |
+**Email:** me@fl1nt.dev
