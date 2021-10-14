@@ -10,7 +10,7 @@ Minecraft, Rust, Garry's Mod, Ark, & more.
 
 Previous Owner of- MythicMine, RustyFlintstone, & countless others.
 
-Current Owner of- [Nebula Network](https://www.nebulamc.io/)
+I quit Minecraft in 2021.
 
 ## Contact
 
