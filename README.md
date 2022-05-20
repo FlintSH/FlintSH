@@ -14,6 +14,6 @@ I quit Minecraft in 2021.
 
 ## Contact
 
-**Discord:** Flint#0110 |
+**Discord:** Flint#1337 |
 **Spigot:** [FlintSpellhunter](https://www.spigotmc.org/members/flintspellhunter.38257/) |
 **Email:** me@fl1nt.dev
