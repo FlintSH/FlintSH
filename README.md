@@ -1,19 +1,8 @@
-# FlintSpellhunter
+# Hello, I'm Flint
+*serial server owner and massive overthinker.*
 
-Name originates from Wizard101
+I have been off and on with programming throughout my life however I am best in Python and C#.
 
-Well known for my development/server work across several games.
+If you ever need to reach out I am always available via me@fl1nt.dev (I check often)
 
-Minecraft, Rust, Garry's Mod, Ark, & more.
-
-## Experience
-
-Previous Owner of- MythicMine, RustyFlintstone, & countless others.
-
-I quit Minecraft in 2021.
-
-## Contact
-
-**Discord:** Flint#1337 |
-**Spigot:** [FlintSpellhunter](https://www.spigotmc.org/members/flintspellhunter.38257/) |
-**Email:** me@fl1nt.dev
+I also host a portfolio and blog which can be found @ https://fl1nt.dev/
