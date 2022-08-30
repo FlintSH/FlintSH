@@ -1,5 +1,5 @@
 # Hello, I'm Flint
-*serial server owner and massive overthinker.*
+*serial server owner and developer since 2012*
 
 I have been off and on with programming throughout my life however I am best in Python and C#.
 
