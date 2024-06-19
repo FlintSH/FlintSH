@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a programmer and game server enthusiast from P
 
 I occasionally share my thoughts and experiences through my blog. Here are some recent posts:
 
+- [From Perfectionism to Progress](https://www.fl1nt.dev/blog/from-perfectionism-to-progress)
 - [Introducing Avora: My latest big project](https://www.fl1nt.dev/blog/introducing-avora-my-latest-big-project)
 - [Announcement: Welcome to the new website!](https://www.fl1nt.dev/blog/welcome-to-new-website)
 - [Announcement: The future with Shockbyte!](https://www.fl1nt.dev/blog/the-future-with-shockbyte)
@@ -20,7 +21,7 @@ I occasionally share my thoughts and experiences through my blog. Here are some 
 
 ## Projects
 
-I've worked on various projects and servers throughout my time on the web. Here are a few notable ones:
+I've worked on various projects, mostly game servers. Here are a few notable ones:
 
 - [fl1nt.dev](https://fl1nt.dev): My website, which is epic - do check it out.
 - [Avora](https://avora.one): An AI-powered browser extension to enhance your online experience.
@@ -29,8 +30,6 @@ I've worked on various projects and servers throughout my time on the web. Here 
 - ezSpotify.co: A Python project to upgrade Spotify accounts to premium.
 - Rusty Flintstone: A modded Rust server that gained popularity quickly.
 - 1337Survival: A survival Minecraft server that allowed me to learn Bukkit plugin development.
-
-*Projects that don't have links are private or no longer accessible - if you want to learn more about one of these, feel free to ask me!*
 
 ## Get in Touch
 
