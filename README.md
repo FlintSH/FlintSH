@@ -1,39 +1,21 @@
-# Hi, I'm FlintSH! 👋
+# Hi, I'm FlintSH 👋
 
-Welcome to my GitHub profile! I'm a programmer and game server enthusiast from Pittsburgh, PA, USA. My main programming language is Python, and I have been running game servers for over 10 years. Currently, I'm working at Shockbyte, a world-renowned server host.
+I'm a programmer and game server enthusiast from Pittsburgh, PA. I've been running game servers for over 10 years and programming just as long.
 
-## About Me
+My current passion is AI, and I'm working on a browser extension that I hope will change the way we digest information on the web. It is coming soon, and you can learn more [here](https://avora.one).
 
-- I love chatting on Discord and exploring the web.
-- I'm a student in CS at a local university.
-- Currently, I'm working on a new project called Avora, an AI-powered browser extension to enhance the browsing experience. [Check it out](https://avora.one)
-
-## Blogs
-
-I occasionally share my thoughts and experiences through my blog. Here are some recent posts:
-
-- [From Perfectionism to Progress](https://www.fl1nt.dev/blog/from-perfectionism-to-progress)
-- [Introducing Avora: My latest big project](https://www.fl1nt.dev/blog/introducing-avora-my-latest-big-project)
-- [Announcement: Welcome to the new website!](https://www.fl1nt.dev/blog/welcome-to-new-website)
-- [Announcement: The future with Shockbyte!](https://www.fl1nt.dev/blog/the-future-with-shockbyte)
-- [Nebula X EarthPol: What went wrong?](https://www.fl1nt.dev/blog/nebula-earthpol-what-went-wrong)
-- [Quitting Minecraft: Was it worth it?](https://www.fl1nt.dev/blog/quitting-minecraft-was-it-worth-it)
+After Avora, I want double down and work on even more AI projects. I'm also interested in research and development of future AI models.
 
 ## Projects
 
-I've worked on various projects, mostly game servers. Here are a few notable ones:
+- [fl1nt.dev](https://fl1nt.dev): My website - do check it out.
+- [Avora](https://avora.one): An AI-powered browser extension that I'm working on.
+- [NebulaMC](https://discord.gg/3BjbDwPBDx): Now shut down, but was my custom-coded Minecraft server - ran with [@sp-ec](https://github.com/sp-ec).
 
-- [fl1nt.dev](https://fl1nt.dev): My website, which is epic - do check it out.
-- [Avora](https://avora.one): An AI-powered browser extension to enhance your online experience.
-- Paradigm: A feature-packed Discord bot and AI chatbot.
-- [NebulaMC](https://discord.gg/3BjbDwPBDx): A custom-coded Minecraft server that I co-owned.
-- ezSpotify.co: A Python project to upgrade Spotify accounts to premium.
-- Rusty Flintstone: A modded Rust server that gained popularity quickly.
-- 1337Survival: A survival Minecraft server that allowed me to learn Bukkit plugin development.
+Various other countless game servers and projects that I've worked on over the years.
 
 ## Get in Touch
 
-Feel free to reach out to me through the following channels:
-
 - Discord: [Join my server](https://discord.gg/QaQ74W6Rm3)
 - Email: [me@fl1nt.dev](mailto:me@fl1nt.dev)
+- Twitter: [@xFlintSHx](https://x.com/xFlintSHx)
