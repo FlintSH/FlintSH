@@ -1,6 +1,6 @@
 # Hi, I'm FlintSH 👋
 
-I'm a programmer and game server enthusiast from Pittsburgh, PA. I've been running game servers for over 10 years and programming just as long.
+I'm a programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years. I've been programming just as long.
 
 My current passion is AI, and I'm working on a browser extension that I hope will change the way we digest information on the web. It is coming soon, and you can learn more [here](https://avora.one).
 
@@ -18,4 +18,4 @@ Various other countless game servers and projects that I've worked on over the y
 
 - Discord: [Join my server](https://discord.gg/QaQ74W6Rm3)
 - Email: [me@fl1nt.dev](mailto:me@fl1nt.dev)
-- Twitter: [@xFlintSHx](https://x.com/xFlintSHx)
+- X (formerly Twitter): [@xFlintSHx](https://x.com/xFlintSHx)
