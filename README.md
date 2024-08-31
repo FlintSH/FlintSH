@@ -2,7 +2,7 @@
 
 I'm a programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years. I've been programming just as long.
 
-My current passion is AI, and I'm working on a browser extension that I hope will change the way we digest information on the web. It is coming soon, and you can learn more [here](https://avora.one).
+My current passion is AI, and I'm working on a browser extension that I hope will change the way we digest information on the web. It's available now and you can learn more [here](https://avora.one).
 
 After Avora, I want double down and work on even more AI projects. I'm also interested in research and development of future AI models.
 
