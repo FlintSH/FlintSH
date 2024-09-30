@@ -9,7 +9,7 @@ After Avora, I want double down and work on even more AI projects. I'm also inte
 ## Projects
 
 - [fl1nt.dev](https://fl1nt.dev): My website - do check it out.
-- [Avora](https://avora.one): An AI-powered browser extension that I'm working on.
+- [Avora](https://avora.one): An AI-powered browser extension, it can make your life easier.
 - [NebulaMC](https://discord.gg/3BjbDwPBDx): Now shut down, but was my custom-coded Minecraft server - ran with [@sp-ec](https://github.com/sp-ec).
 
 Various other countless game servers and projects that I've worked on over the years.
