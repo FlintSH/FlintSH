@@ -10,7 +10,7 @@ After Avora, I want double down and work on even more AI projects. I'm also inte
 
 - [fl1nt.dev](https://fl1nt.dev): My website - do check it out.
 - [Avora](https://avora.one): An AI-powered browser extension, it can make your life easier.
-- [outlier.tools](https://outlier.tools): A suite of tools to help Outlier contractors and make their lives easily, handled entirely in-browser.
+- [Outlier Tools](https://outlier.tools): A suite of tools to help Outlier contractors and make their lives easily, handled entirely in-browser.
 - [NebulaMC](https://discord.gg/3BjbDwPBDx): Now shut down, but was my custom-coded Minecraft server - ran with [@sp-ec](https://github.com/sp-ec).
 
 Various other countless game servers and projects that I've worked on over the years.
