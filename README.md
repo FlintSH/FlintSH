@@ -1,6 +1,6 @@
 # Hi, I'm FlintSH 👋
 
-I'm a programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years. I've been programming just as long.
+I'm a self-taught programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years. I've been programming just as long.
 
 My current passion is AI, and I'm working on a browser extension that I hope will change the way we digest information on the web. It's available now and you can learn more [here](https://avora.one).
 
