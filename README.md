@@ -1,6 +1,6 @@
 # Hi, I'm FlintSH 👋
 
-I'm a self-taught programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years. I've been programming just as long.
+I'm a self-taught programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years. I've been programming just as long. My real name is Zach.
 
 My current passion is AI, and I'm working on a browser extension that I hope will change the way we digest information on the web. It's available now and you can learn more [here](https://avora.one).
 
@@ -9,6 +9,7 @@ After Avora, I want double down and work on even more AI projects. I'm also inte
 ## Projects
 
 - [fl1nt.dev](https://fl1nt.dev): My website - do check it out.
+- [Flare](https://github.com/FlintSH/Flare): A modern, lightning fast file sharing platform with support for ShareX and Flameshot.
 - [Avora](https://avora.one): An AI-powered browser extension, it can make your life easier.
 - [Outlier Tools](https://outlier.tools): A collection of free open-source tools to help Outlier freelancers, entirely handled in-browser.
 - [find.fl1nt.dev](https://find.fl1nt.dev): Finds all websites under a keyword. I made it because google sucks at finding niche sites.
