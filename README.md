@@ -10,7 +10,7 @@ In the longterm, I want to double down and work on even more AI projects. I'm al
 
 - [fl1nt.dev](https://fl1nt.dev): My website - do check it out. Entirely written from scratch.
 - [Flare](https://github.com/FlintSH/Flare): A modern, lightning fast file sharing platform with support for ShareX and Flameshot.
-- [Avora](https://avora.one): A browser extension that uses embeddings and a large language model to analyze your web content and answer questions.
+- [Avora](https://avora.one): A browser extension that uses embeddings and a LLM to analyze web content and answer questions.
 - [Outlier Tools](https://outlier.tools): A collection of free open-source tools to help Outlier workers understand their earnings.
 - [find.fl1nt.dev](https://find.fl1nt.dev): Finds all websites under a keyword. I made it because google sucks at finding niche sites.
 - [NebulaMC](https://discord.gg/3BjbDwPBDx): Now shut down, but was my custom-coded Minecraft server - ran with [@sp-ec](https://github.com/sp-ec).
