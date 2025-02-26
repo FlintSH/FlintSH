@@ -17,7 +17,7 @@ In the longterm, I want to double down and work on even more AI projects. I'm al
 - [find.fl1nt.dev](https://find.fl1nt.dev): Finds all websites under a keyword. I made it because google sucks at finding niche sites.
 - [NebulaMC](https://discord.gg/3BjbDwPBDx): Now shut down, but was my custom-coded Minecraft server - ran with [@sp-ec](https://github.com/sp-ec).
 
-Various other countless game servers and projects that I've worked on over the years.
+There's a lot of other things I've made over the years, but these are the most prevalent. :)
 
 ## Get in Touch:
 
