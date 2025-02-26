@@ -2,7 +2,7 @@
 
 I'm a self-taught programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years as a kid. I've been programming just as long. I love building, there's nothing more therapudic or rewarding to me.
 
-My current passion is AI, and I'm working at Scale AI to improve its AI training platform. Prior to Scale, I worked on AI projects like Avora and Disclone!
+My current passion is AI, and I'm working at Scale AI to improve its AI training platform. Prior to Scale, I worked on AI projects like Avora and Disclone (see below).
 
 In the longterm, I want to double down and work on even more AI projects. I'm also interested in research and development of future AI models.
 
@@ -12,6 +12,7 @@ In the longterm, I want to double down and work on even more AI projects. I'm al
 - [Flare](https://github.com/FlintSH/Flare): A modern, lightning fast file sharing platform with support for ShareX and Flameshot.
 - [Avora](https://avora.one): A browser extension that uses embeddings and a LLM to analyze web content and answer questions.
 - [Outlier Tools](https://outlier.tools): A collection of free open-source tools to help Outlier workers understand their earnings.
+- [Disclone](https://github.com/FlintSH/Disclone): A python script that converts Discord chatlogs to OpenAI compatible fine-tuning datasets.
 - [find.fl1nt.dev](https://find.fl1nt.dev): Finds all websites under a keyword. I made it because google sucks at finding niche sites.
 - [NebulaMC](https://discord.gg/3BjbDwPBDx): Now shut down, but was my custom-coded Minecraft server - ran with [@sp-ec](https://github.com/sp-ec).
 
