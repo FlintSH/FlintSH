@@ -1,6 +1,6 @@
 # Hi, I'm FlintSH 👋
 
-I'm a fully self-taught programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years as a kid. I've been programming just as long. I love building, there's nothing more therapudic or rewarding to me.
+I'm a self-taught programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years as a kid. I've been programming just as long. I love building, there's nothing more therapudic or rewarding to me.
 
 My current passion is AI, and I'm working at [Scale](https://scale.com) to improve its AI training platform. Prior to Scale, I worked on AI projects like [Avora](https://avora.one) and [Disclone](https://github.com/FlintSH/Disclone)!
 
