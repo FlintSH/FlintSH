@@ -4,7 +4,7 @@ I'm a self-taught programmer from Pittsburgh, PA. I used to run game servers and
 
 My current passion is AI, and I'm working at Scale AI to improve its AI training platform. Prior to Scale, I worked on AI projects like Avora and Disclone (see below).
 
-In the longterm, I want to double down and work on even more AI projects. I'm also interested in research and development of future AI models.
+Over time, I want to double down and work on even more AI projects. I'm also interested in research and development of future AI models.
 
 ## Things I've made:
 
