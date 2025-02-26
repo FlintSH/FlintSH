@@ -17,9 +17,10 @@ In the longterm, I want to double down and work on even more AI projects. I'm al
 
 Various other countless game servers and projects that I've worked on over the years.
 
-## Get in Touch
+## Get in Touch:
 
-- Commissions: [Check out my Ko-Fi](https://ko-fi.com/flintsh/commissions)
 - Discord: [Join my server](https://discord.gg/QaQ74W6Rm3)
+- Commissions: [Check out my Ko-Fi](https://ko-fi.com/flintsh/commissions)
 - Email: [me@fl1nt.dev](mailto:me@fl1nt.dev)
-- X (formerly Twitter): [@xFlintSHx](https://x.com/xFlintSHx)
+
+You can find more socials on my website.
