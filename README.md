@@ -13,6 +13,7 @@ In the longterm, I want to double down and work on even more AI projects. I'm al
 - [Avora](https://avora.one): A browser extension that uses embeddings and a LLM to analyze web content and answer questions.
 - [Outlier Tools](https://outlier.tools): A collection of free open-source tools to help Outlier workers understand their earnings.
 - [Disclone](https://github.com/FlintSH/Disclone): A python script that converts Discord chatlogs to OpenAI compatible fine-tuning datasets.
+- [legcord.app](https://legcord.app): Built with Astro, I created the website for the popular alternative Discord client Legcord.
 - [find.fl1nt.dev](https://find.fl1nt.dev): Finds all websites under a keyword. I made it because google sucks at finding niche sites.
 - [NebulaMC](https://discord.gg/3BjbDwPBDx): Now shut down, but was my custom-coded Minecraft server - ran with [@sp-ec](https://github.com/sp-ec).
 
