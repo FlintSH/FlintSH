@@ -14,7 +14,7 @@ Long-term, I want to work on even more AI projects. I'm also interested in resea
 - [Outlier Tools](https://outlier.tools): A collection of free open-source tools to help Outlier workers understand their earnings.
 - [Disclone](https://github.com/FlintSH/Disclone): A python script that converts Discord chatlogs to OpenAI compatible fine-tuning datasets.
 - [legcord.app](https://legcord.app): Built with Astro, I created the website for the popular alternative Discord client Legcord.
-- [find.fl1nt.dev](https://find.fl1nt.dev): Finds all websites under a keyword. I made it because google sucks at finding niche sites.
+- [website-finder](https://github.com/FlintSH/website-finder): Finds all websites under a keyword. I made it because google sucks at finding niche sites.
 
 There's a lot of other things I've made over the years, but these are the most prevalent. :)
 
