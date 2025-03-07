@@ -1,4 +1,4 @@
-# Hi, I'm FlintSH :3
+# Hi, I'm FlintSH 👋
 
 I'm a self-taught programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years as a kid. I've been programming just as long. I love building, there's nothing more therapudic or rewarding to me.
 
