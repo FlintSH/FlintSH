@@ -10,6 +10,7 @@ Long-term, I want to work on even more AI projects. I'm also interested in resea
 
 - [fl1nt.dev](https://fl1nt.dev): My website - do check it out. Entirely written from scratch.
 - [Flare](https://github.com/FlintSH/Flare): A modern, lightning fast file sharing platform with support for ShareX and Flameshot.
+- [reve-sdk](https://github.com/FlintSH/reve-sdk): An unofficial javascript SDK for Reve Image (Halfmoon). It's an image model!
 - [Avora](https://avora.one): A browser extension that uses embeddings and a LLM to analyze web content and answer questions.
 - [Outlier Tools](https://outlier.tools): A collection of free open-source tools to help Outlier workers understand their earnings.
 - [Disclone](https://github.com/FlintSH/Disclone): A python script that converts Discord chatlogs to OpenAI compatible fine-tuning datasets.
