@@ -1,6 +1,8 @@
-# Hi, I'm FlintSH (Zach) 👋
+<img width="280" height="60" alt="image" src="https://github.com/user-attachments/assets/45dbd2fa-8084-464b-a06b-a9cbdc9d948d" />
 
-I'm a self-taught programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years as a kid. I've been programming just as long. I love building, there's nothing more therapudic or rewarding to me.
+------------------------
+
+Hey there, I'm FlintSH (or Zach). I'm a self-taught programmer from Pittsburgh, PA. I used to run game servers and did for over 10 years as a kid. I've been programming just as long. I love building, there's nothing more therapudic or rewarding to me.
 
 My current passion is AI, and I'm working at Scale AI to improve its AI training platform. Prior to Scale, I worked on AI projects like Avora and Disclone (see below). In my free time I also maintain some open source projects, most notably Flare, Disclone, and Reve-SDK. Long-term, I want to double down on even more AI projects. I'm also interested in research and development of future AI models - its truly fascinating.
 
